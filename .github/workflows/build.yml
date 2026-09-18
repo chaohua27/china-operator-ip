@@ -14,7 +14,7 @@ on:
         required: true
         default: true
   schedule:
-    - cron: '00 19 * * *'
+    - cron: '00 16 * * *'
 
 jobs:
   build:
